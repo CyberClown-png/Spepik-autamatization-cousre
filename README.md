@@ -1,1 +1,1 @@
-# Spepik-autamatization-cousre
+# Stepik-autamatization-cousre
