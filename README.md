@@ -1,2 +1,2 @@
 # Stepik-autamatizatin-cousre
-#adding comment into my potencial project
+#adding comment into my wotencial project
